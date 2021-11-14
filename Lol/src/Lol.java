@@ -1,4 +1,4 @@
-import									javax.sound									.sampled.										*;class									Lol{static float _____________
+import                                  javax.sound                                  .sampled.										*;class                                 Lol{static float _____________
 	=8765;							static		void							________	(int 								_______	,int 							____________
         )throws 				Exception			{________				(_______			,____________				,'"'/'"')		;}static 				void
 			________		(int 						_______			,int 						____________		,double 				___________		)throws
